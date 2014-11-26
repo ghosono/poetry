@@ -6,12 +6,9 @@
 Color[] autumn = {Color.red, Color.orange, Color.yellow};
 
 for (leaf : tree){ 
-	int color = math.round(math.Random () * 3);
+	int color = math.floor(math.Random() * 3);
 	leaf.Color = autumn[color];
-	if (breeze == true){
+	if (breeze){
 		fall();
-	}
+		}
 }
-
-
-
