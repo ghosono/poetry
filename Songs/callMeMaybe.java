@@ -6,7 +6,7 @@
 
 public class CallMeMaybe
 {
-	public static String myNumber = "(650) 515-3355";
+	public static String myNumber = "(650) xxx-xxxx";
 	public static String maybe = "So call me maybe!";
 	public static String maybeNot = "Before you came into my life, I missed you so bad. And you should know that";
 
