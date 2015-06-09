@@ -6,5 +6,5 @@
 count = 1
 
 while count < 1000
-	goodnight()
+	puts goodnight()
 	count++
