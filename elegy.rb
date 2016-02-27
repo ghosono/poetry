@@ -35,7 +35,7 @@ person << "you"
 thing << "our goldfish"
 thing << "the ikea sofa"
 thing << "your tattoo"
-thing << "a your copy of crime and punishment from high school"
+thing << "your copy of crime and punishment from high school"
 murmurings << "#{that thing} can help me get back to #{that person}"
 now << "i still see #{that person} in #{that place}"
 
