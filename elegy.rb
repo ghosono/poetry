@@ -69,7 +69,7 @@ now << "#{that thing} is all i have left"
 murmurings << "i wish i could have stopped time in #{that place}"
 murmurings << "i see #{that thing} so clearly"
 
-now << "the silence is an enternity without #{that person}"
+now << "the silence is an eternity without #{that person}"
 
 
 loop do
